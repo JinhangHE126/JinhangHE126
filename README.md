@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#-about-me">English</a> · <a href="#-关于我">中文</a>
+  <b>English</b> · <a href="./README.zh-CN.md">中文</a>
 </p>
 
 ---
@@ -65,46 +65,6 @@ MSc Data Science & AI graduate from The Hang Seng University of Hong Kong. Curre
 
 #### Life
 * Badminton, staying active, and fishing
-
----
-
-### 🧬 关于我
-
-你好，我是 **何金航（Caelum）**。
-
-我是一名常驻香港的 AI Developer，专注打造可落地的大模型应用、RAG 系统与多智能体平台。我更在意真实场景下的可靠性：有据可依的回答、可追溯的证据，以及能安全失败、可审计的 agent 流程。
-
-我曾以自由职业身份交付过私有化医疗多站点 RAG 问答系统（NDA），独立打造了面向港美市场的多智能体投研平台 AlphaPilot，并向开源 LangGraph starter kit 贡献了已合并的 PR。日常工作覆盖全栈：LangGraph 编排、FastAPI 后端与 React 前端，技术栈包括 Python、TypeScript、PyTorch 与 Docker。
-
-毕业于香港恒生大学数据科学与人工智能硕士。目前在 **Epro Telecom Services** 担任 AI Developer，同时开放 **AI Engineer / AI Agent Engineer / RAG Engineer** 相关机会。
-
----
-
-### 🚀 精选项目
-
-* **AlphaPilot** — 基于 LangGraph 的多智能体股票投研平台（港股 & 美股），含 Evidence Packet、混合检索 RAG，以及带字段级引用的多空辩论。([仓库](https://github.com/JinhangHE126/Alphapilot))
-* **医疗 RAG 问答（NDA）** — 私有化多站点临床问答：ASR → 混合检索 → 带引用回答，含 LangGraph 质量门控与本地化部署隔离。
-* **四足机器人控制** — Unitree Go2（Jetson Nano）实时行人跟随：YOLOv8（ONNX）+ KCF 跟踪，ROS Catkin + Unitree SDK。([仓库](https://github.com/JinhangHE126/Pedestrian-detection))
-
----
-
-### 🎓 教育背景
-
-* **数据科学与人工智能理学硕士** — [香港恒生大学](https://www.hsu.edu.hk/)
-* *2025.09 – 2026.06*
-* **软件工程工学学士** — [电子科技大学中山学院](https://www.zsc.edu.cn/)
-* *2021.09 – 2025.06*
-
----
-
-### 🌱 兴趣爱好
-
-#### 工作与科研
-* 深度学习、多模态、量化，以及模型微调
-* 构建可靠的智能体系统与生产级 RAG 流水线
-
-#### 生活
-* 羽毛球、运动、钓鱼
 
 ---
 
