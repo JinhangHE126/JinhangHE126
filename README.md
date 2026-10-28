@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="https://github.com/JinhangHE126">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JinhangHE126&theme=transparent" alt="GitHub Profile Details" />
-  </a>
-  <a href="https://github.com/JinhangHE126">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JinhangHE126&theme=transparent" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#-about-me">English</a> · <a href="#-关于我">中文</a>
 </p>
 
