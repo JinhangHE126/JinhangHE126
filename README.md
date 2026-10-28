@@ -79,7 +79,7 @@ MSc Data Science & AI graduate from The Hang Seng University of Hong Kong. Curre
 
 ### 🧬 关于我
 
-你好，我是 **何锦航（Caelum）**。
+你好，我是 **何金航（Caelum）**。
 
 我是一名常驻香港的 AI Developer，专注打造可落地的大模型应用、RAG 系统与多智能体平台。我更在意真实场景下的可靠性：有据可依的回答、可追溯的证据，以及能安全失败、可审计的 agent 流程。
 
